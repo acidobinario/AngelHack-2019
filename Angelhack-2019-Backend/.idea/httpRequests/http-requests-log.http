@@ -1,0 +1,30 @@
+POST http://localhost:8080/api/login
+Accept: */*
+Cache-Control: no-cache
+
+{"username":"admin","password":"angelhack"}
+
+<> 2019-07-07T121154.401.json
+
+###
+
+POST http://localhost:8080/api/login
+Accept: */*
+Cache-Control: no-cache
+
+{"username":"admin","password":"angelhack"}
+
+<> 2019-07-07T120414.401.json
+
+###
+
+POST http://localhost:8080/api/login
+Accept: */*
+Cache-Control: no-cache
+
+{"username":"admin","password":"angelhack"}
+
+<> 2019-07-07T120323.401.json
+
+###
+
